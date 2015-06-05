@@ -89,9 +89,10 @@ img {
 }
 .left {
   float: left;
-  width: calc(100% - 277px);
+  width: calc(100% - 287px);
   background-color: #FFFFF7;
   margin: 10px 0px 10px 20px;
+  padding-right: 10px;
   border-right: 2px solid #FF99A1;
 
 }

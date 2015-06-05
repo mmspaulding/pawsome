@@ -85,8 +85,8 @@ img {
 .style {
   list-style: none;
   margin: 0px;
-
 }
+
 .left {
   float: left;
   width: calc(100% - 287px);
@@ -94,30 +94,31 @@ img {
   margin: 10px 0px 10px 20px;
   padding-right: 10px;
   border-right: 2px solid #FF99A1;
-
 }
+
 footer {
   clear: both;
   height: 30px;
   width: 100%;
   background-color: #7ACCBE;
 }
+
 footer p {
   float: right;
   width: 250px;
-
-
 }
-
-
-
 
 .pets {
   height: 300px;
   width: 300px;
 }
+
 .review {
   font-style: italic;
+}
 
-
+#animals {
+  height: 150px;
+  width: 500px;
+  margin-left: 75px;
 }
